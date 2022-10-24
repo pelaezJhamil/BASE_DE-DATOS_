@@ -1,18 +1,34 @@
-# BASE_DE-DATOS_
+<h1 align="center">BASE DE DATOS😎​</h1>
+<h3 align="center">SEGUNDO SEMESTRE</h3>
 
-<h3 align="center">SEGUNDO SEMESTRE 😎​</h3>
+## ✨ HITO 2
+
+GIT HUB
+
+```sh
+https://github.com/pelaezJhamil/BASE_DE-DATOS_/tree/main/hito2
+```
 
 ## ✨ HITO 3
 
 GIT HUB
 
 ```sh
-https://github.com/pelaezJhamil
+https://
 ```
 
 ## SCREENSHOT
 
 [![GITHUB](GITHUB "GITHUB")](C:/Users/UNIFRANZ/Pictures/Screenshots/captura.png "GITHUB")
+
+## 📖  Production setup
+
+To run the application, it is necessary to execute
+
+```sh
+npm run build
+npm run start
+```
 
 ## 👤 Author
 
